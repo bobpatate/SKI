@@ -12,3 +12,10 @@ Clique gauche et droit pour attaquer respectivement à gauche et à droite du pers
 
 Styles: Sport et hack'slash
 Thème: Infini/Néant
+
+
+Équipe: PUNishers
+Gabriel Hébert
+Alex Plante
+Maxime Tremblay
+Jordan Chayer
