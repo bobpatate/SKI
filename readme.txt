@@ -2,7 +2,7 @@ SKI - Slide and Kill to Infinity
 
 Description:
 SKI est l'aventure du skieur intergalactique qui descends la Voie Lactée en vaincant ses adversersaires.
-L'objectif est de survivre le plu longtemps possible pour obtenir le meilleur score.
+L'objectif est de survivre le plus longtemps possible pour obtenir le meilleur score.
 
 
 Instructions:
