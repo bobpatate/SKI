@@ -19,3 +19,7 @@ Gabriel Hébert
 Alex Plante
 Maxime Tremblay
 Jordan Chayer
+
+
+
+Problème d'adaptabilité de la résolution causant certains problèmes d'affichage.
