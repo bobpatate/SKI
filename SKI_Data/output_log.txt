@@ -1,0 +1,27 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 8.17.12.9644]
+    Renderer: NVIDIA GeForce GTX 660M
+    Vendor:   NVIDIA
+    VRAM:     1995 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Maxime\Desktop\Jeu\SKI_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+UnloadTime: 0.451125 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 228.
+Total: 4.742836 ms (FindLiveObjects: 0.018294 ms CreateObjectMapping: 0.045514 ms MarkObjects: 0.130741 ms  DeleteObjects: 3.650498 ms)
+
